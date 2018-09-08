@@ -1,0 +1,10 @@
+#wrapper{
+	width: 300px;
+	height: auto;
+	padding: 5px;
+	border: 1px solid #cccccc;
+}
+
+#value{
+	width: 290px
+}
